@@ -1,1 +1,1 @@
-This is where you'll find the most updated release of the Ironcore client on release. It will be downloaded directly when you click the download button though.
+This is where you'll find the most updated release of the Ironcore client on release. It will be downloaded directly when you click the download button though or found here by clicking the green CODE button then download as .zip.
